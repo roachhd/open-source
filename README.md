@@ -1,2 +1,2 @@
-open-source
-===========
+Squared-Jekyll-theme
+====================

@@ -1,0 +1,12 @@
+name: Open Source Projects
+markdown: redcarpet
+pygments: true
+permalink: /:title
+disqus-id: roachhd
+# put after parsing url
+url: http://roachhd.github.io/open-source
+twitter-username: mektball
+baseurl: http://roachhd.github.io/open-source
+author: Katie Ball
+gems:
+  - jemoji
