@@ -1,7 +1,7 @@
 name: Open Source Projects
 markdown: redcarpet
 pygments: true
-permalink: /:title
+permalink: /open-source/:title
 disqus-id: roachhd
 # put after parsing url
 url: http://roachhd.github.io/open-source
