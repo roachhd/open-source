@@ -4,6 +4,7 @@ description: A simple, cross-platform mini 8-bit art maker.
 author: Katie Ball
 layout: post
 categories: apps
+published: false
 ---
 A lot of stuff about Purple Owl will go here. A lot of _stuff_ about Purple Owl will go here. A lot of stuff about Purple Owl will go here.  
 
