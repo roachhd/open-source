@@ -2,7 +2,7 @@ name: Open Source Projects
 markdown: redcarpet
 pygments: true
 permalink: /open-source/:title
-disqus-id: roachhd
+disqus-id: katie-open-source
 # put after parsing url
 url: http://roachhd.github.io/open-source
 twitter-username: mektball
